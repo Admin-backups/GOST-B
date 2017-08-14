@@ -5,5 +5,5 @@
 
 ## 安装 ##
     wget -N --no-check-certificate https://raw.githubusercontent.com/Admin-backups/GOST-B/master/install.sh && bash install.sh
-## 截图 ##
+## 说明 ##
 ![https://raw.githubusercontent.com/Admin-backups/GOST-B/master/1.png](1.png)
